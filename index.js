@@ -10,7 +10,7 @@ const users = [{}]
 app.use(cors())
 
 app.get("/",(req,res)=>{
-    res.send("Hell Yes")
+    res.send("Welcome To Thunder Chat   ")
 })
 
 
